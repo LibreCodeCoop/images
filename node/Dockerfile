@@ -1,8 +1,4 @@
-FROM node:slim
-
-RUN npm install --quiet --global \
-      vue-cli@2.9.5 \
-      quasar-cli@0.16.4
+FROM node:9.11.1-slim
 
 RUN mkdir -p /var/www/app && \
     chown -R node:node /var/www && \
