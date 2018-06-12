@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-docker build -t lyseontech/php-dev .
-docker tag lyseontech/php-dev lyseontech/php-dev:v${1}
-docker push lyseontech/php-dev:v${1}
-docker push lyseontech/php-dev:latest
+docker build -t lyseontech/php-apache-dev .
+docker tag lyseontech/php-apache-dev lyseontech/php-apache-dev:v${1}
+docker push lyseontech/php-apache-dev:v${1}
+docker push lyseontech/php-apache-dev:latest

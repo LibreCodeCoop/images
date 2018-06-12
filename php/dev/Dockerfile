@@ -1,4 +1,4 @@
-FROM webdevops/php-apache-dev:7.0
+FROM webdevops/php-apache-dev:7.2
 
 USER application
 
