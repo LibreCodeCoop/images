@@ -1,4 +1,4 @@
-FROM mysql:5.5
+FROM mysql:5.6
 
 RUN groupadd --gid 1000 application \
   && useradd --uid 1000 --gid application --shell /bin/bash --create-home application \
