@@ -1,4 +1,4 @@
-FROM mysql:5.7
+FROM mysql:5.5
 
 RUN groupadd --gid 1000 application \
   && useradd --uid 1000 --gid application --shell /bin/bash --create-home application \
@@ -10,8 +10,8 @@ RUN apt-get update \
     && apt-get install -y zip \
     && rm -rf /var/lib/apt/lists/*
 
-USER application
+# USER application
 
 WORKDIR "/var/www/app"
 
-# CMD ["mysqld"]
+CMD ["mysqld"]
