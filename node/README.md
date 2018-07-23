@@ -17,11 +17,11 @@ pull: `$ docker pull lyseontech/node`
 $ docker run lyseontech/node node -v
 ```
 
-```yml
+```yaml
 version: '3'
 
 services:
-    node-app:
-        image: lyseontech/node
-        container_name: node-app
+  node-app:
+    image: lyseontech/node
+    container_name: node-app
 ```

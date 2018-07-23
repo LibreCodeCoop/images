@@ -1,8 +1,8 @@
 FROM lyseontech/node:v10.6.0
 
-RUN yarn global add --quiet\
+RUN npm install --global\
  @vue/cli@3.0.0-rc.3\
- @vue/cli-init@3.0.0-rc.3\
+ @vue/cli-init@3.0.0-rc.3
 # @vue/cli-overlay@3.0.0-rc.3\
 # @vue/cli-plugin-babel@3.0.0-rc.3\
 # @vue/cli-plugin-e2e-cypress@3.0.0-rc.3\
