@@ -17,11 +17,11 @@ Propriedades disponíveis:
 
 ## Tags
 
-- [latest](https://github.com/LyseonTech/images/blob/master/php-apache-dev/latest/Dockerfile)
-- [v7.3](https://github.com/LyseonTech/images/blob/master/php-apache-dev/7.3/Dockerfile)
-- [v7.2](https://github.com/LyseonTech/images/blob/master/php-apache-dev/7.2/Dockerfile)
-- [v7.1](https://github.com/LyseonTech/images/blob/master/php-apache-dev/7.1/Dockerfile)
-- [v7.0](https://github.com/LyseonTech/images/blob/master/php-apache-dev/7.0/Dockerfile)
+- [latest](https://github.com/librecodecoop/images/blob/master/php-apache-dev/latest/Dockerfile)
+- [v7.3](https://github.com/librecodecoop/images/blob/master/php-apache-dev/7.3/Dockerfile)
+- [v7.2](https://github.com/librecodecoop/images/blob/master/php-apache-dev/7.2/Dockerfile)
+- [v7.1](https://github.com/librecodecoop/images/blob/master/php-apache-dev/7.1/Dockerfile)
+- [v7.0](https://github.com/librecodecoop/images/blob/master/php-apache-dev/7.0/Dockerfile)
 
 ## Examples
 
