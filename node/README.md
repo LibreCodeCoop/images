@@ -6,10 +6,10 @@ pull: `$ docker pull lyseontech/node`
 
 ## Tags
 
-- [latest](https://github.com/LyseonTech/images/blob/master/node/latest/Dockerfile)
-- [v10.0.6](https://github.com/LyseonTech/images/blob/master/node/10.0.6/Dockerfile)
-- [v9.11.2](https://github.com/LyseonTech/images/blob/master/node/9.11.2/Dockerfile)
-- [v9.11.1](https://github.com/LyseonTech/images/blob/master/node/9.11.1/Dockerfile)
+- [latest](https://github.com/librecodecoop/images/blob/master/node/latest/Dockerfile)
+- [v10.0.6](https://github.com/librecodecoop/images/blob/master/node/10.0.6/Dockerfile)
+- [v9.11.2](https://github.com/librecodecoop/images/blob/master/node/9.11.2/Dockerfile)
+- [v9.11.1](https://github.com/librecodecoop/images/blob/master/node/9.11.1/Dockerfile)
 
 ## Examples
 
